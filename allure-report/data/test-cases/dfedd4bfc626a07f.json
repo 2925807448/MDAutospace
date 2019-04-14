@@ -1,0 +1,176 @@
+{
+  "uid" : "dfedd4bfc626a07f",
+  "name" : "queryInterfaceDetail",
+  "fullName" : "com.jsst.cloud.test.MDInterfacesServiceTest.queryInterfaceDetail",
+  "historyId" : "202c800d9d5b9aba4c43cf1b1db6b143",
+  "time" : {
+    "start" : 1553073776893,
+    "stop" : 1553073777762,
+    "duration" : 869
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "springTestContextBeforeTestMethod",
+    "time" : {
+      "start" : 1553073776827,
+      "stop" : 1553073776827,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextBeforeTestClass",
+    "time" : {
+      "start" : 1553073771283,
+      "stop" : 1553073771283,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextPrepareTestInstance",
+    "time" : {
+      "start" : 1553073771283,
+      "stop" : 1553073776823,
+      "duration" : 5540
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "dataSetUp",
+    "time" : {
+      "start" : 1553073771266,
+      "stop" : 1553073771272,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "dataSetUp",
+    "time" : {
+      "start" : 1553073771272,
+      "stop" : 1553073771272,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "springTestContextAfterTestMethod",
+    "time" : {
+      "start" : 1553073777783,
+      "stop" : 1553073777783,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextAfterTestClass",
+    "time" : {
+      "start" : 1553073777784,
+      "stop" : 1553073777803,
+      "duration" : 19
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.jsst.cloud.test.MDInterfacesServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jsst.cloud.test.MDInterfacesServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "queryInterfaceDetail"
+  }, {
+    "name" : "parentSuite",
+    "value" : "MDAutospace接口自动化测试v1.0"
+  }, {
+    "name" : "suite",
+    "value" : "***接口测试结果"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.jsst.cloud.test.MDInterfacesServiceTest"
+  }, {
+    "name" : "host",
+    "value" : "BCXKBNXJDLXA12J"
+  }, {
+    "name" : "thread",
+    "value" : "18496@BCXKBNXJDLXA12J.pool-2-thread-1(15)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "interfaceId",
+    "value" : "86a9bce0-e887-11e8-868d-23e1e07aa73d"
+  }, {
+    "name" : "report.config",
+    "value" : "src/main/resources/extent-config.xml"
+  }, {
+    "name" : "system.info",
+    "value" : "com.jsst.cloud.entity.EnvSystemInfo"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfedd4bfc626a07f.json",
+  "parameterValues" : [ "86a9bce0-e887-11e8-868d-23e1e07aa73d", "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+}

@@ -1,0 +1,91 @@
+[ {
+  "uid" : "bf7e2d9404630d3a",
+  "name" : "runCases",
+  "time" : {
+    "start" : 1553073779565,
+    "stop" : 1553073779565,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "blocker"
+}, {
+  "uid" : "aaa02caafddda849",
+  "name" : "testAddInterfacesCase",
+  "time" : {
+    "start" : 1553073779297,
+    "stop" : 1553073779444,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b152667a06975fb0",
+  "name" : "testCalculateAppriasal",
+  "time" : {
+    "start" : 1553073777809,
+    "stop" : 1553073777811,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c34a8c85b996c376",
+  "name" : "testDeleteCaseFromRedis",
+  "time" : {
+    "start" : 1553073779448,
+    "stop" : 1553073779464,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e4b69fca1a79055",
+  "name" : "failedTest",
+  "time" : {
+    "start" : 1553073779557,
+    "stop" : 1553073779557,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "17d43ea080e59c96",
+  "name" : "testCalculateYearlySalary",
+  "time" : {
+    "start" : 1553073777813,
+    "stop" : 1553073777813,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfedd4bfc626a07f",
+  "name" : "queryInterfaceDetail",
+  "time" : {
+    "start" : 1553073776893,
+    "stop" : 1553073777762,
+    "duration" : 869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef0ca52931411e62",
+  "name" : "testQeuryCaseFromRedis",
+  "time" : {
+    "start" : 1553073779472,
+    "stop" : 1553073779524,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32c434aba3eb2425",
+  "name" : "skipTest",
+  "time" : {
+    "start" : 1553073779568,
+    "stop" : 1553073779568,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

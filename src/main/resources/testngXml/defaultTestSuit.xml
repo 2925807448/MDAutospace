@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MDAutospace接口自动化测试v1.0" verbose="0" preserve-order="true" thread-count="3"
+	parallel="classes" skipfailedinvocationcounts="true">
+	<parameter name="report.config" value="src/main/resources/extent-config.xml" />
+	<parameter name="system.info" value="com.jsst.cloud.entity.EnvSystemInfo" />
+	<test verbose="1" preserve-order="false" name="***接口测试结果">
+		<groups>
+			<define name="firstGroup">
+				<include name="testGetInterface" />
+			</define>
+			<define name="seccondGroup">
+				<include name="queryInterfaceDetail" />
+			</define>
+			<run>
+				<include name="firstGroup" />
+				<include name="seccondGroup" />
+				<!--<include name="eatOneTen"/> -->
+			</run>
+		</groups>
+		<classes>
+			<!-- 可以多个 -->
+			<class name="com.jsst.cloud.test.TestCaseDemo"></class>
+			<class name="com.jsst.cloud.test.MDInterfacesServiceTest">
+				<parameter name="interfaceId_01" value="86a9bce0-e887-11e8-868d-23e1e07aa73d" />
+			</class>
+		</classes>
+	</test>
+	<test name="***员工详情接口测试结果">
+		<classes>
+			<class name="com.jsst.cloud.test.TestEmployeeDetails" />
+		</classes>
+	</test>
+	<test name="***用例接口测试结果">
+		<classes>
+			<class name="com.jsst.cloud.test.MDInterfacesCaseServiceCaseTest" />
+		</classes>
+	</test>
+	<test name="***allure接口测试结果">
+		<classes>
+			<class name="com.jsst.cloud.test.RunDemoTest" />
+		</classes>
+	</test>
+	<listeners>
+		<!--<listener class-name="com.jsst.cloud.listener.ExtentTestNGIReporterListener"/> -->
+		<!--<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/> -->
+		<listener class-name="com.jsst.cloud.listener.AllureReporterListener" />
+		<listener class-name="com.jsst.cloud.listener.FailedRetryListener" />
+	</listeners>
+</suite>

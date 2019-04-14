@@ -1,0 +1,149 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "MDAutospace接口自动化测试v1.0",
+    "children" : [ {
+      "name" : "***接口测试结果",
+      "children" : [ {
+        "name" : "com.jsst.cloud.test.MDInterfacesServiceTest",
+        "children" : [ {
+          "name" : "queryInterfaceDetail",
+          "uid" : "dfedd4bfc626a07f",
+          "parentUid" : "479cc4a978d28eddf222fd01b66afb87",
+          "status" : "passed",
+          "time" : {
+            "start" : 1553073776893,
+            "stop" : 1553073777762,
+            "duration" : 869
+          },
+          "flaky" : false,
+          "parameters" : [ "86a9bce0-e887-11e8-868d-23e1e07aa73d", "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        } ],
+        "uid" : "479cc4a978d28eddf222fd01b66afb87"
+      } ],
+      "uid" : "b3a535ff521d9e7ce2ca2164fe5154ca"
+    }, {
+      "name" : "***员工详情接口测试结果",
+      "children" : [ {
+        "name" : "com.jsst.cloud.test.TestEmployeeDetails",
+        "children" : [ {
+          "name" : "testCalculateAppriasal",
+          "uid" : "b152667a06975fb0",
+          "parentUid" : "24e4fbc729552a1dd52ee4def5cbb313",
+          "status" : "passed",
+          "time" : {
+            "start" : 1553073777809,
+            "stop" : 1553073777811,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        }, {
+          "name" : "testCalculateYearlySalary",
+          "uid" : "17d43ea080e59c96",
+          "parentUid" : "24e4fbc729552a1dd52ee4def5cbb313",
+          "status" : "passed",
+          "time" : {
+            "start" : 1553073777813,
+            "stop" : 1553073777813,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        } ],
+        "uid" : "24e4fbc729552a1dd52ee4def5cbb313"
+      } ],
+      "uid" : "2f36e07348b2395389e0c82e4db34fa7"
+    }, {
+      "name" : "***用例接口测试结果",
+      "children" : [ {
+        "name" : "com.jsst.cloud.test.MDInterfacesCaseServiceCaseTest",
+        "children" : [ {
+          "name" : "testAddInterfacesCase",
+          "uid" : "aaa02caafddda849",
+          "parentUid" : "05b9ba4f2337ed76c0b4dc600c6eef7c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1553073779297,
+            "stop" : 1553073779444,
+            "duration" : 147
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        }, {
+          "name" : "testDeleteCaseFromRedis",
+          "uid" : "c34a8c85b996c376",
+          "parentUid" : "05b9ba4f2337ed76c0b4dc600c6eef7c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1553073779448,
+            "stop" : 1553073779464,
+            "duration" : 16
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        }, {
+          "name" : "testQeuryCaseFromRedis",
+          "uid" : "ef0ca52931411e62",
+          "parentUid" : "05b9ba4f2337ed76c0b4dc600c6eef7c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1553073779472,
+            "stop" : 1553073779524,
+            "duration" : 52
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        } ],
+        "uid" : "05b9ba4f2337ed76c0b4dc600c6eef7c"
+      } ],
+      "uid" : "9f032db3fa06960620914dc6d603f2c9"
+    }, {
+      "name" : "***allure接口测试结果",
+      "children" : [ {
+        "name" : "com.jsst.cloud.test.RunDemoTest",
+        "children" : [ {
+          "name" : "failedTest",
+          "uid" : "7e4b69fca1a79055",
+          "parentUid" : "d51da6f40a09859b7c872e6f77873f2a",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1553073779557,
+            "stop" : 1553073779557,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        }, {
+          "name" : "runCases",
+          "uid" : "bf7e2d9404630d3a",
+          "parentUid" : "d51da6f40a09859b7c872e6f77873f2a",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1553073779565,
+            "stop" : 1553073779565,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        }, {
+          "name" : "skipTest",
+          "uid" : "32c434aba3eb2425",
+          "parentUid" : "d51da6f40a09859b7c872e6f77873f2a",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1553073779568,
+            "stop" : 1553073779568,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+        } ],
+        "uid" : "d51da6f40a09859b7c872e6f77873f2a"
+      } ],
+      "uid" : "d91259e8a7bae05a561ea2d7760a1da7"
+    } ],
+    "uid" : "8caa28d7bcf32907d637ff84060bcab9"
+  } ]
+}

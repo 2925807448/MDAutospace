@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://10.101.90.214:9092/",
+  "buildOrder" : 44,
+  "buildName" : "MDAutospace #44",
+  "buildUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure"
+} ]

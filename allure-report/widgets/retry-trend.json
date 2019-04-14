@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 44,
+  "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 9,
+    "retry" : 0
+  }
+} ]

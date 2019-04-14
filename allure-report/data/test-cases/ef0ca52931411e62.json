@@ -1,0 +1,205 @@
+{
+  "uid" : "ef0ca52931411e62",
+  "name" : "testQeuryCaseFromRedis",
+  "fullName" : "com.jsst.cloud.test.MDInterfacesCaseServiceCaseTest.testQeuryCaseFromRedis",
+  "historyId" : "d646d92de49c0609cf60f41abcf0860c",
+  "time" : {
+    "start" : 1553073779472,
+    "stop" : 1553073779524,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "springTestContextBeforeTestMethod",
+    "time" : {
+      "start" : 1553073779470,
+      "stop" : 1553073779470,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextBeforeTestClass",
+    "time" : {
+      "start" : 1553073777828,
+      "stop" : 1553073777828,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextPrepareTestInstance",
+    "time" : {
+      "start" : 1553073777828,
+      "stop" : 1553073779290,
+      "duration" : 1462
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "envSetUp",
+    "time" : {
+      "start" : 1553073779291,
+      "stop" : 1553073779291,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "测试环境参数",
+    "time" : {
+      "start" : 1553073779291,
+      "stop" : 1553073779295,
+      "duration" : 4
+    },
+    "description" : "测试环境参数",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "dataSetUp",
+    "time" : {
+      "start" : 1553073771266,
+      "stop" : 1553073771272,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "dataSetUp",
+    "time" : {
+      "start" : 1553073771272,
+      "stop" : 1553073771272,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "springTestContextAfterTestMethod",
+    "time" : {
+      "start" : 1553073779525,
+      "stop" : 1553073779525,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextAfterTestClass",
+    "time" : {
+      "start" : 1553073779526,
+      "stop" : 1553073779539,
+      "duration" : 13
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.jsst.cloud.test.MDInterfacesCaseServiceCaseTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jsst.cloud.test.MDInterfacesCaseServiceCaseTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testQeuryCaseFromRedis"
+  }, {
+    "name" : "parentSuite",
+    "value" : "MDAutospace接口自动化测试v1.0"
+  }, {
+    "name" : "suite",
+    "value" : "***用例接口测试结果"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.jsst.cloud.test.MDInterfacesCaseServiceCaseTest"
+  }, {
+    "name" : "host",
+    "value" : "BCXKBNXJDLXA12J"
+  }, {
+    "name" : "thread",
+    "value" : "18496@BCXKBNXJDLXA12J.pool-4-thread-1(30)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "report.config",
+    "value" : "src/main/resources/extent-config.xml"
+  }, {
+    "name" : "system.info",
+    "value" : "com.jsst.cloud.entity.EnvSystemInfo"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef0ca52931411e62.json",
+  "parameterValues" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+}

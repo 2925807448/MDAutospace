@@ -1,0 +1,183 @@
+{
+  "e6a358a9ff0fbfd7d3f74649aca7aa60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf7e2d9404630d3a",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/bf7e2d9404630d3a",
+      "status" : "skipped",
+      "statusDetails" : "\nMethod public void com.jsst.cloud.test.RunDemoTest.runCases(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.net.URISyntaxException requires a @DataProvider named : casesProvider in class com.jsst.cloud.provider.DemoProvider",
+      "time" : {
+        "start" : 1553073779565,
+        "stop" : 1553073779565,
+        "duration" : 0
+      }
+    } ]
+  },
+  "445b600cb2069c7fb91418176b8f2295" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaa02caafddda849",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/aaa02caafddda849",
+      "status" : "passed",
+      "time" : {
+        "start" : 1553073779297,
+        "stop" : 1553073779444,
+        "duration" : 147
+      }
+    } ]
+  },
+  "d646d92de49c0609cf60f41abcf0860c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef0ca52931411e62",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/ef0ca52931411e62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1553073779472,
+        "stop" : 1553073779524,
+        "duration" : 52
+      }
+    } ]
+  },
+  "7b713bd67a2300d944bced9d75b227d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32c434aba3eb2425",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/32c434aba3eb2425",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1553073779568,
+        "stop" : 1553073779568,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2bfb29ff6baa371c89f6643f684619fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c34a8c85b996c376",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/c34a8c85b996c376",
+      "status" : "passed",
+      "time" : {
+        "start" : 1553073779448,
+        "stop" : 1553073779464,
+        "duration" : 16
+      }
+    } ]
+  },
+  "41724f4769a7120fee0f3269c5baebd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17d43ea080e59c96",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/17d43ea080e59c96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1553073777813,
+        "stop" : 1553073777813,
+        "duration" : 0
+      }
+    } ]
+  },
+  "accba518994830a529fd0d64b762ccb6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e4b69fca1a79055",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/7e4b69fca1a79055",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1553073779557,
+        "stop" : 1553073779557,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b4c0d2240342a2f72a7672d799452959" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b152667a06975fb0",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/b152667a06975fb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1553073777809,
+        "stop" : 1553073777811,
+        "duration" : 2
+      }
+    } ]
+  },
+  "202c800d9d5b9aba4c43cf1b1db6b143" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dfedd4bfc626a07f",
+      "reportUrl" : "http://10.101.90.214:9092/job/MDAutospace/44/allure/#testresult/dfedd4bfc626a07f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1553073776893,
+        "stop" : 1553073777762,
+        "duration" : 869
+      }
+    } ]
+  }
+}

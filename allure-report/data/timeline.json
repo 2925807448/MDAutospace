@@ -1,0 +1,137 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BCXKBNXJDLXA12J",
+    "children" : [ {
+      "name" : "18496@BCXKBNXJDLXA12J.pool-4-thread-1(30)",
+      "children" : [ {
+        "name" : "testAddInterfacesCase",
+        "uid" : "aaa02caafddda849",
+        "parentUid" : "71558c8804b0e9291a0329ce3cf8a186",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553073779297,
+          "stop" : 1553073779444,
+          "duration" : 147
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      }, {
+        "name" : "testQeuryCaseFromRedis",
+        "uid" : "ef0ca52931411e62",
+        "parentUid" : "71558c8804b0e9291a0329ce3cf8a186",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553073779472,
+          "stop" : 1553073779524,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      }, {
+        "name" : "testDeleteCaseFromRedis",
+        "uid" : "c34a8c85b996c376",
+        "parentUid" : "71558c8804b0e9291a0329ce3cf8a186",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553073779448,
+          "stop" : 1553073779464,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      } ],
+      "uid" : "71558c8804b0e9291a0329ce3cf8a186"
+    }, {
+      "name" : "18496@BCXKBNXJDLXA12J.pool-3-thread-1(29)",
+      "children" : [ {
+        "name" : "testCalculateAppriasal",
+        "uid" : "b152667a06975fb0",
+        "parentUid" : "56aa5e31af2a7869f399a33d61d4cc76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553073777809,
+          "stop" : 1553073777811,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      }, {
+        "name" : "testCalculateYearlySalary",
+        "uid" : "17d43ea080e59c96",
+        "parentUid" : "56aa5e31af2a7869f399a33d61d4cc76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553073777813,
+          "stop" : 1553073777813,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      } ],
+      "uid" : "56aa5e31af2a7869f399a33d61d4cc76"
+    }, {
+      "name" : "18496@BCXKBNXJDLXA12J.pool-5-thread-2(38)",
+      "children" : [ {
+        "name" : "skipTest",
+        "uid" : "32c434aba3eb2425",
+        "parentUid" : "3d21828d3dd899e744996841fd2dc1e0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1553073779568,
+          "stop" : 1553073779568,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      } ],
+      "uid" : "3d21828d3dd899e744996841fd2dc1e0"
+    }, {
+      "name" : "18496@BCXKBNXJDLXA12J.pool-5-thread-1(37)",
+      "children" : [ {
+        "name" : "runCases",
+        "uid" : "bf7e2d9404630d3a",
+        "parentUid" : "93640c79b9bdd9a88005179a02e237d3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1553073779565,
+          "stop" : 1553073779565,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      }, {
+        "name" : "failedTest",
+        "uid" : "7e4b69fca1a79055",
+        "parentUid" : "93640c79b9bdd9a88005179a02e237d3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1553073779557,
+          "stop" : 1553073779557,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      } ],
+      "uid" : "93640c79b9bdd9a88005179a02e237d3"
+    }, {
+      "name" : "18496@BCXKBNXJDLXA12J.pool-2-thread-1(15)",
+      "children" : [ {
+        "name" : "queryInterfaceDetail",
+        "uid" : "dfedd4bfc626a07f",
+        "parentUid" : "751e5e433a6d7c6d418a651b1372c946",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553073776893,
+          "stop" : 1553073777762,
+          "duration" : 869
+        },
+        "flaky" : false,
+        "parameters" : [ "86a9bce0-e887-11e8-868d-23e1e07aa73d", "src/main/resources/extent-config.xml", "com.jsst.cloud.entity.EnvSystemInfo" ]
+      } ],
+      "uid" : "751e5e433a6d7c6d418a651b1372c946"
+    } ],
+    "uid" : "e521d3fbc0eb8bf4d1372d741c19e41e"
+  } ]
+}

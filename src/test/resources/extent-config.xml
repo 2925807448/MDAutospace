@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>MDAutospace Extent Report</documentTitle>
+        <reportName>MDAutospace Extent Report</reportName>
+
+        <!-- custom javascript -->
+        <!--<scripts>-->
+            <!--<![CDATA[-->
+                <!--$(document).ready(function() {-->
+                    <!--$('#childNodes').prop("checked", true);-->
+                <!--});-->
+            <!--]]>-->
+        <!--</scripts>-->
+    </configuration>
+</extentreports>

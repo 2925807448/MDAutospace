@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "8caa28d7bcf32907d637ff84060bcab9",
+    "name" : "MDAutospace接口自动化测试v1.0",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 9
+    }
+  } ]
+}
